@@ -1,0 +1,37 @@
+🛡️ Mishi Bot — Privacy Policy
+Last updated: [Insert Date]
+
+Mishi is a Discord music bot that respects your privacy and keeps your data safe. Below is how we handle information.
+
+1. What Data We Collect
+We only process the following temporarily and in real-time:
+
+Message content (commands like +play, +skip, etc.)
+
+Voice state events (e.g., when users join or leave voice channels)
+
+User IDs (for command execution, logging song requesters, etc.)
+
+We do not collect:
+
+Usernames, emails, or personal messages
+
+Sensitive data
+
+Any data unrelated to bot functionality
+
+2. How We Use the Data
+To respond to commands (+play, etc.)
+
+To join and manage music in voice channels
+
+To determine when to stop music if users leave
+
+3. How Long We Store Data
+We do not store any user data persistently. All data is used only during the session and discarded immediately after.
+
+4. Who Has Access
+Only the bot’s developer has access to its internal functions. No personal data is ever shared, sold, or exposed.
+
+5. Your Rights
+Since we do not retain personal data, there’s nothing to request deletion of. However, users can stop interacting with the bot at any time or remove it from their servers.
