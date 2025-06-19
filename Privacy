@@ -1,37 +1,48 @@
-🛡️ Mishi Bot — Privacy Policy
-Last updated: [Insert Date]
+1. 📊 What Data We Collect
+Mishi only processes minimal, non-sensitive data in real time, strictly for operational purposes. We temporarily handle the following:
 
-Mishi is a Discord music bot that respects your privacy and keeps your data safe. Below is how we handle information.
+Message content — used to process prefix commands like +play, +skip, +pause, etc.
 
-1. What Data We Collect
-We only process the following temporarily and in real-time:
+Voice state events — such as joining or leaving a voice channel.
 
-Message content (commands like +play, +skip, etc.)
+User IDs — to execute commands, identify users for song requests, and apply DJ permissions.
 
-Voice state events (e.g., when users join or leave voice channels)
+❌ We do not collect or store:
+Usernames, emails, or direct/private messages
 
-User IDs (for command execution, logging song requesters, etc.)
+IP addresses or device information
 
-We do not collect:
+Any sensitive personal data
 
-Usernames, emails, or personal messages
+Any data unrelated to the bot’s features
 
-Sensitive data
+2. ⚙️ How We Use the Data
+The limited data Mishi processes is used exclusively to:
 
-Any data unrelated to bot functionality
+Respond to music-related commands (e.g., +play, +queue)
 
-2. How We Use the Data
-To respond to commands (+play, etc.)
+Join, leave, and control activity in voice channels
 
-To join and manage music in voice channels
+Track voice activity to determine when to stop playback (e.g., when everyone leaves)
 
-To determine when to stop music if users leave
+3. ⏱️ Data Retention
+Mishi does not store any user data persistently.
 
-3. How Long We Store Data
-We do not store any user data persistently. All data is used only during the session and discarded immediately after.
+All data is processed in-memory and discarded immediately after the command/session completes.
 
-4. Who Has Access
-Only the bot’s developer has access to its internal functions. No personal data is ever shared, sold, or exposed.
+No logs or databases are used to retain personal information.
 
-5. Your Rights
-Since we do not retain personal data, there’s nothing to request deletion of. However, users can stop interacting with the bot at any time or remove it from their servers.
+4. 🔐 Who Has Access
+Only the authorized Mishi bot developer has access to the bot’s runtime environment.
+
+No user data is ever shared, sold, analyzed, or exposed to third parties.
+
+5. 🧾 Your Rights & Control
+Since Mishi does not store personal data:
+
+There is no information to request deletion of.
+
+You can stop using Mishi at any time by removing it from your Discord server or revoking its permissions.
+
+📬 Contact
+For any questions or concerns related to Mishi's data handling, please contact the bot owner directly via the support server or muzammilopyt.
